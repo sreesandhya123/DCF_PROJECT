@@ -1,0 +1,8 @@
+#USE_SECTIONS
+[DCF_DEV_PARAM].[DWH_PARAM].[mt_DIM_PERSON_EDUCATIONS]
+$$TgtTablename=
+$$Sf_Staging_Conn=
+$$Src_AllowableValues=
+$$SrcTablename=
+$$Sf_DWH_Conn=
+[Global]
