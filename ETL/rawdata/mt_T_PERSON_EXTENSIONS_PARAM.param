@@ -1,0 +1,9 @@
+#USE_SECTIONS
+[DCF_DEV_PARAM].[RAWDATA_PARAM].[mt_T_PERSON_EXTENSIONS_PARAM]
+$$O_Email=
+$$FlatFile_conn=
+$$sf_Rawdata_Conn=
+$$SrcQuery=
+$$IntegrationRunTimeName=
+$$ParamFileName=
+[Global]
